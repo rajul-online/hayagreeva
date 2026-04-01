@@ -1,4 +1,5 @@
 const listArray = function(arrayData) {
+  console.log(arrayData);
   return arrayData.pop();
 }
 const arrayData = [1,2,3]
